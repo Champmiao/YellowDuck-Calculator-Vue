@@ -2,7 +2,7 @@
 
 
 
-<img src="C:\Users\Doudou\Desktop\YellowDuck-Calculator-Vue\效果图.png" style="zoom: 50%;" />
+<img src="https://github.com/Champmiao/YellowDuck-Calculator-Vue/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.png" style="zoom: 50%;" />
 
 
 
