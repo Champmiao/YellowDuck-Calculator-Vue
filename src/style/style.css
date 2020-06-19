@@ -1,0 +1,53 @@
+html {
+  font-size: 14px;
+  /* =10px */
+}
+
+body {
+  margin-top: 100px;
+  background-color: #f4f1f1;
+}
+
+header {
+  font-size: 1.8rem;
+}
+
+.brand {
+  position: absolute;
+  margin-left: -2.2rem;
+  margin-top: -0.3rem;
+  font-size: 2rem;
+}
+
+header h1 {
+  /* position: relative; */
+  font-size: 2.5rem;
+  color: rgb(244, 200, 29);
+  -webkit-text-stroke: 0.05px #ffffff;
+}
+
+header .author a {
+  text-decoration: none;
+  color: darkgreen;
+}
+
+header,
+.calculator {
+  margin: 2.5rem auto;
+  text-align: center;
+}
+
+.calculator {
+  border: 0.6rem outset rgb(255, 100, 100);
+  width: 34rem;
+  height: 40rem;
+  background-color: rgb(198, 47, 47);
+  font-size: 1.6rem;
+  /* -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem; */
+  border-radius: 1rem;
+  -webkit-box-shadow: 1rem 1rem 0.5rem #ccc;
+  box-shadow: 1rem 1rem 0.5rem #ccc;
+}
