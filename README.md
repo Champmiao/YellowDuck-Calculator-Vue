@@ -1,6 +1,10 @@
 🍉 本项目打包文件存在BUG，若查看请下载依赖运行，抱歉 🍉
 
-<img src="./效果图.jpg" style="zoom:40%;" />
+
+
+<img src="C:\Users\Doudou\Desktop\YellowDuck-Calculator-Vue\效果图.png" style="zoom: 50%;" />
+
+
 
 ###  面试作业：
 
