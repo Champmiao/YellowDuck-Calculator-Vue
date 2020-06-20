@@ -1,9 +1,7 @@
 🍉 本项目打包文件存在BUG，若查看请下载依赖运行，抱歉 🍉
 
 
-
-<img src="https://github.com/Champmiao/YellowDuck-Calculator-Vue/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.png" style="zoom: 50%;" />
-
+ ![image](http://m.qpic.cn/psc?/V11E9jQr163cUb/UVjGSBgujG6XwMFsQlvXReptSCDSEtJfMFruPPssnaqQRwmX*g9hnJdzXzEBTUQ5yfwUJRWUEso7HmUKRBaqiQ!!/b&bo=xwIzA8cCMwMDCSw!&rf=viewer_4)
 
 
 ###  面试作业：
